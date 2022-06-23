@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TeleSena
+comment1.params=
+comment1.target=TeleSena()
+comment2.params=
+comment2.target=int\ getValorDeVenda()
+comment3.params=
+comment3.target=int[]\ getConjuntoDeNumero1()
+comment4.params=
+comment4.target=int[]\ getConjuntoDeNumero2()
+comment5.params=conjuntoDeNumeros
+comment5.target=void\ insereNumerosDoConjunto(int[])
+numComments=6

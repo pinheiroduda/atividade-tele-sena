@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Pessoa
+comment1.params=nome
+comment1.target=Pessoa(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment3.params=
+comment3.target=TeleSena[]\ getTeleSenasCompradas()
+comment4.params=
+comment4.target=double\ getValorDePremiacao()
+comment5.params=nome
+comment5.target=void\ setNome(java.lang.String)
+comment6.params=valorDePremiacao
+comment6.target=void\ setValorDePremiacao(double)
+comment7.params=
+comment7.target=void\ addTeleSenasCompradas()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

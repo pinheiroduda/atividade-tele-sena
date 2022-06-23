@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=ControleTeleSena
+comment1.params=
+comment1.target=ControleTeleSena()
+comment10.params=
+comment10.target=void\ informacoesDoConcurso()
+comment2.params=
+comment2.target=Pessoa[]\ getPessoa()
+comment3.params=pessoaParticipante
+comment3.target=int\ quantidadeDeTeleSenasVendidas(Pessoa)
+comment4.params=
+comment4.target=double\ valorTotalDeVendas()
+comment5.params=
+comment5.target=double\ valorDaPremiacao()
+comment6.params=
+comment6.target=double\ valorDoLucro()
+comment7.params=novaPessoa
+comment7.target=int\ inserePessoas(Pessoa)
+comment8.params=numeroSorteado
+comment8.target=void\ sortearNumero(int[])
+comment9.params=
+comment9.target=Pessoa[]\ ganhador()
+numComments=11
